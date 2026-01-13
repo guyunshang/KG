@@ -1,0 +1,4 @@
+缓存清除：
+构建知识图谱的缓存取决于build.py的运行文件夹，所以要清除两个文件夹，1是主文件夹的cache，2是build.py所在子文件夹的cache
+无效文档：
+可以解除注释graph_writer.py中的convert_to_graph_document函数中的调试打印代码
